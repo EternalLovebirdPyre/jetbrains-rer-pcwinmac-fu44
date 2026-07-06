@@ -1,4 +1,4 @@
-# 
+# Gratuit JetBrains Rider extensions pour Mac OS | Open Source JetBrains Rider extensions pour PC Windows. Avec serveurs mock et contrôle de version — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
